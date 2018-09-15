@@ -1,8 +1,8 @@
 # critical_css
-[Above the fold（ファーストビュー）に含まれる CSS を webpack を使ってインライン化する](https://qiita.com/im36-123/items/ba39d91f043c30f78099)のサンプルコード
+[Above the fold（ファーストビュー）に含まれる CSS を webpack を使ってインライン化する](https://qiita.com/im36-123/items/ba39d91f043c30f78099)のサンプルコードです。
 
 ## install
-clone 後にターミナルで下記を実行してください
+clone 後にターミナルで下記を実行してください。
 ```shell
 $ npm install
 ```
